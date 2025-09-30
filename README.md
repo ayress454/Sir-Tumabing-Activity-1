@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Pet Grooming Services App
 A Flutter mobile application offering pet grooming services.
@@ -204,3 +205,7 @@ Small, focused widgets
 Reusable components
 Easy to test individual parts
 Easy to maintain and update
+=======
+# Sir-Tumabing-Activity-1
+Activity 1
+>>>>>>> 60aaca4d2c039bbbdc68a79963c2b6577000b26e
